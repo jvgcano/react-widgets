@@ -1,0 +1,29 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // Set the default
+    "editor.formatOnSave": false,
+    // Enable per-language
+    "[css]": {
+        "editor.formatOnSave": true,
+    },    
+    "[graphql]": {
+        "editor.formatOnSave": true,
+    },        
+    "[html]": {
+        "editor.formatOnSave": true,
+    },    
+    "[javascript]": {
+        "editor.formatOnSave": true,
+    },
+    "[json]": {
+        "editor.formatOnSave": true,
+    },    
+    "[jsx]": {
+        "editor.formatOnSave": true,
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true,
+    },
+    "prettier.singleQuote": true,
+}    
+
